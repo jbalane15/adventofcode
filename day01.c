@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define MAX 100
 
+//test
+
 int calcFuel(int*,int);
 
 int main(){
